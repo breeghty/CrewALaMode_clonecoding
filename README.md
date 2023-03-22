@@ -7,6 +7,7 @@
 
 2022.10.
 
+
 ### 키워드(Keyword)
 
 - 클론코딩 100%
@@ -14,6 +15,8 @@
 - HTML, CSS, Javascript, jQuery
 - Splitting.js, scrolla.js video 태그 사용
 
+
 ### 풀페이지(Full page)
+
 <img src="./img/sectors_3.jpg">
 
