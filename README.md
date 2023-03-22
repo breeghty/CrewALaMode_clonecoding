@@ -1,6 +1,6 @@
 # 📌 Crew A La Mode 클론코딩
 
-<img src="./responsive_crew.png" width="1000px" height="auto" alt="클루얼라모드 반응형">
+<img src="./responsive_crew.png" width="600px" height="auto" alt="클루얼라모드 반응형">
 
 ## 💻 Clone Coding 
 **크루즈 승무원들을 위한 의류기업인 크루얼라모드의 클론코딩 사이트입니다.** 깔끔한 디자인과 레이아웃이 특징입니다. 헤더에 스크롤 시 애니메이션을 적용하고 메뉴를 반응형마다 다른 디자인으로 제작하였습니다.
