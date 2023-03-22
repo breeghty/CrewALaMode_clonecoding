@@ -15,5 +15,5 @@
 - Splitting.js, scrolla.js video 태그 사용
 
 ### 풀페이지(Full page)
-
+<img src="./img/sectors_3.jpg">
 
